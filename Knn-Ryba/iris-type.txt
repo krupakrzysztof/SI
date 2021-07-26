@@ -1,0 +1,7 @@
+sepal_length_in_cm	n
+sepal_width_in_cm	n
+petal_length_in_cm	n
+petal_width_in_cm	n
+class(1=Setosa,2=Versicolour,3=Virginica)	s
+
+
